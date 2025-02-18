@@ -2,6 +2,13 @@
 
 julia_version = "1.11.3"
 manifest_format = "2.0"
-project_hash = "17224aa0266df42a00659430d36b32cadeb206f5"
+project_hash = "d3873e3f22548c0c7ee36c47e56bbcd437505fa5"
 
-[deps]
+[[deps.Random]]
+deps = ["SHA"]
+uuid = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+version = "1.11.0"
+
+[[deps.SHA]]
+uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+version = "0.7.0"
