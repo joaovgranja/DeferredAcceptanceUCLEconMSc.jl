@@ -6,6 +6,6 @@ export deferred_acceptance
 
 # Include source files
 include( "types.jl" )
-include( "methods.jl" )
+include( "da.jl" )
 
 end
